@@ -5,5 +5,5 @@ metadata:
   description: A collection of all gpi systems
 spec:
   targets:
-    - ./systems/open-edge.yaml
-    - ./systems/cayan.yaml
+    - ./open-edge.yaml
+    - ./cayan.yaml
