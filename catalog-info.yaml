@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: mybackstage
+  name: authComponent
   description: An example of a Backstage application.
   # Example for optional annotations
   # annotations:
@@ -10,4 +10,4 @@ metadata:
 spec:
   type: website
   owner: john@example.com
-  lifecycle: experimental
+  lifecycle: production
