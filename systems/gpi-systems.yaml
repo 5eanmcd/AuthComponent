@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: gpi-systems
+  description: A collection of all gpi systems
+spec:
+  targets:
+    - ./systems/open-edge.yaml
+    - ./systems/cayan.yaml
