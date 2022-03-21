@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: cayan
+  description: Cayan System
+spec:
+  owner: ft1
+  domain: cayan
