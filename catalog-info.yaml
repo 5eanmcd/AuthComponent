@@ -13,7 +13,7 @@ metadata:
   #   github.com/project-slug: backstage/backstage
   #   backstage.io/techdocs-ref: dir:.
 spec:
-  type: application
+  type: component
   owner: john@example.com
   lifecycle: production
   system: open-edge
