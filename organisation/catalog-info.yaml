@@ -23,7 +23,5 @@ metadata:
   description: A collection of all Backstage groups
 spec:
   targets:
-    - ./infrastructure-group.yaml
-    - ./boxoffice-group.yaml
-    - ./backstage-group.yaml
+    - ./gwops.yaml
     - ./ft9.yaml
