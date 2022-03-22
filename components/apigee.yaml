@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@5eanmcd 
-5eanmcd
-/
-AuthComponent
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-AuthComponent/catalog-info.yaml
-@5eanmcd
-5eanmcd Update catalog-info.yaml
-Latest commit 3c50a7b 1 hour ago
- History
- 1 contributor
-21 lines (21 sloc)  478 Bytes
-   
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
