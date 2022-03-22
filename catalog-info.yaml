@@ -5,6 +5,7 @@ metadata:
   description: Authorizes and Authenticates platform applications.
   tags:
     - auth
+    - java
   # Example for optional annotations
   # annotations:
   #   github.com/project-slug: backstage/backstage
