@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: gwops
+  description: The gwops department
+spec:
+  type: department
+  # Intentional no profile for testing
+  parent: gpi-corp
+  children: [ft9]
