@@ -15,3 +15,7 @@ spec:
   owner: ft9
   lifecycle: production
   system: open-edge
+  dependsOn:
+    - resource:authDb
+  providesApis:
+    - merchantaccount
