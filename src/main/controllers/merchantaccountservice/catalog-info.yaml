@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: merchantaccountservice
+  description: Merchant Account Service API description
+  tags:
+    - merchant
+    - service
+spec:
+  type: openapi
+  lifecycle: production
+  owner: ft9
+  component: authComponent
+  system: open-edge
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/search/1.0.0/openapi.yaml
