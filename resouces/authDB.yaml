@@ -1,1 +1,9 @@
-a
+apiVersion: backstage.io/v1alpha1
+kind: Resource
+metadata:
+  name: auth-db
+  description: Auth DB
+spec:
+  type: database
+  owner: ft9
+  system: mongodb
