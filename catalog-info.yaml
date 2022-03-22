@@ -6,7 +6,6 @@ metadata:
   tags:
     - auth
     - java
-    - platformToken
   # Example for optional annotations
   # annotations:
   #   github.com/project-slug: backstage/backstage
