@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: mongodb
+  description: mongo db
+  tags:
+    - db
+spec:
+  owner: dba
+  domain: infrastructure
