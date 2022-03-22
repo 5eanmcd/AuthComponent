@@ -12,6 +12,6 @@ metadata:
   #   backstage.io/techdocs-ref: dir:.
 spec:
   type: component
-  owner: john@example.com
+  owner: ft9
   lifecycle: production
   system: open-edge
