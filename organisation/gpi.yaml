@@ -26,3 +26,4 @@ spec:
     - ./gwops.yaml
     - ./ft9.yaml
     - ./dba.yaml
+    - ./apigee.yaml
