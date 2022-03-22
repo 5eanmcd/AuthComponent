@@ -7,3 +7,4 @@ spec:
   targets:
     - ./open-edge.yaml
     - ./cayan.yaml
+    - ./mongodb.yaml
