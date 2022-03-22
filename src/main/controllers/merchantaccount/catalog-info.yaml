@@ -3,6 +3,9 @@ kind: API
 metadata:
   name: merchantaccount
   description: Merchant Account API description
+  tags:
+    - merchant
+    - account
 spec:
   type: openapi
   lifecycle: production
