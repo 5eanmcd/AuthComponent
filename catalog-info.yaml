@@ -16,6 +16,6 @@ spec:
   lifecycle: production
   system: open-edge
   dependsOn:
-    - resource:authDb
+    - authDb
   providesApis:
     - merchantaccount
