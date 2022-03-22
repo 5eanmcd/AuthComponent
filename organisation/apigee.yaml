@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: apigee-team
+  description: The apigee team
+spec:
+  type: department
+  # Intentional no profile for testing
+  parent: gpi
+  children: []
