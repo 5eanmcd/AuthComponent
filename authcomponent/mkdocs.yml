@@ -3,6 +3,7 @@ site_description: Description of AuthCompnent goes here
 
 nav:
   - Introduction: index.md
+  - CustomNavLink: second.md
 
 plugins:
   - techdocs-core
