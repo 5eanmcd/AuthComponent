@@ -15,5 +15,4 @@ spec:
   lifecycle: production
   system: open-edge
   consumesApis:
-    - merchantaccount
-    - merchantaccountservice
+    - auth
