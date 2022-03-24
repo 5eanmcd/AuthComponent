@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: oev
+  description: Open Edge View
+spec:
+  owner: team-green
+  domain: openedge
