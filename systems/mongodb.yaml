@@ -7,4 +7,4 @@ metadata:
     - db
 spec:
   owner: dba
-  domain: infrastructure
+  domain: merchant
