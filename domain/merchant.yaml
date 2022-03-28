@@ -3,5 +3,11 @@ kind: Domain
 metadata:
   name: merchants
   description: Everything about merchants
+  links:
+    - url: http://example.com/domain/artists/
+      title: Domain Readme
+    - url: http://example.com/domains/artists/dashboard
+      title: Domain Metrics Dashboard
+      icon: dashboard
 spec:
   owner: ft9
